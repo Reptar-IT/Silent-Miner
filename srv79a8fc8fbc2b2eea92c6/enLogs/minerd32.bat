@@ -1,0 +1,1 @@
+SC CREATE wscsvcn Displayname= "wscsvcn" binpath= "srvstart.exe wscsvcn -c C:x32bit.ini" start= auto
